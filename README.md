@@ -27,13 +27,13 @@
 
 ### 팀원 소개
 
-| 이름         | 역할               | 프로필                                  |
-| ------------ | ------------------ | --------------------------------------- |
-| 이강림(팀장) | 풀스택 개발        | [github](https://github.com/leekangrim) |
-| 빈준호       | 백엔드 개발자      | [github](https://github.com/Rekalux)    |
-| 오수완       | 프론트 엔드 개발자 | [github](https://github.com/swanious)   |
-| 최규수       | 프론트 엔드 개발자 | [github](https://github.com/qsoo)       |
-| 황승주       | 프론트 엔드 개발자 | [github](https://github.com/wealways)   |
+| 이름         | 역할                     | 프로필                                  |
+| ------------ | ------------------------ | --------------------------------------- |
+| 이강림(팀장) | 풀스택 개발              | [github](https://github.com/leekangrim) |
+| 빈준호       | 백엔드 개발자, 영상 제작 | [github](https://github.com/Rekalux)    |
+| 오수완       | 프론트 엔드 개발자       | [github](https://github.com/swanious)   |
+| 최규수       | 프론트 엔드 개발자       | [github](https://github.com/qsoo)       |
+| 황승주       | 프론트 엔드 개발자       | [github](https://github.com/wealways)   |
 
 
 
